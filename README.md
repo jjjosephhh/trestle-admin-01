@@ -1,5 +1,7 @@
 # Trestle Admin Tour
 
+## Installing Dependencies
+
 ```bash
 # Make sure Postgresql is installed
 brew install postgresql
@@ -14,4 +16,7 @@ bundle install
 # initial configuration file and 
 # customization hooks
 rails generate trestle:install
+
+# Not sure what to do at this point, just
+# messing around
 ```
